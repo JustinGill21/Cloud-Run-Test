@@ -53,7 +53,7 @@ on:
 
 env:
   PROJECT_ID: fourth-ability-348016 # TODO: update Google Cloud project id
-  SERVICE: Yay-My-Service # TODO: update Cloud Run service name
+  SERVICE: yay-my-service # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
 
 jobs:
